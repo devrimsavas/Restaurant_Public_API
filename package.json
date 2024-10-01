@@ -1,0 +1,16 @@
+{
+  "name": "restaurant-publicapi",
+  "version": "1.0.0",
+  "description": "create random pizza order",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "devrim yilmaz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
